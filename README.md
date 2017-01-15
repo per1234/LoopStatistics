@@ -7,6 +7,7 @@ v1.0
 Calculate average, minimum, and maximum loop time in order to determine performance of code
 
 Functions :
+
 1. Call LoopStatistics.tick(bool print==false) once and only once each loop.
   1. set print to 1 to automatically call printStatistics once a second
 2. float LoopStatistics.Avg() to return the average loop time in ms calculated during the last 1 second interval
