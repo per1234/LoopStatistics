@@ -1,0 +1,14 @@
+{
+  "name": "LoopStatistics by Terry Myers",
+  "authors": "Terry Myers <TerryJMyers@gmail.com",
+  "keywords": "",
+  "description": "Calculate average, minimum, and maximum loop time in order to determine performance of code",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryjmyers/LoopStatistics.git"
+  },
+  "license": "	GPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+
