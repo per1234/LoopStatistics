@@ -12,6 +12,6 @@ LoopStatistics	KEYWORD1
 #######################################
 Avg	KEYWORD2
 Min	KEYWORD2
-Max KEYWORD2
+Max	KEYWORD2
 LoopsPerSec	KEYWORD2
 printStatistics	KEYWORD2
